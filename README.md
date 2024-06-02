@@ -1,4 +1,4 @@
-exercise-app
+#exercise-app
 An app where you can search for different exercises based on equipment, exercise type, targetted muscle/minor muscle, images and gifs on how to perform the exercise, and notes/modifications for the exercise.
 Installation directions:
 1. Download all the files and put it in a folder.
