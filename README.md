@@ -1,5 +1,5 @@
 # exercise-app
-An app where you can search for different exercises based on equipment, exercise type, targetted muscle/minor muscle, images and gifs on how to perform the exercise, and notes/modifications for the exercise.
+An app where you can search for different exercises based on equipment, exercise type, targetted muscle/minor muscles, images and gifs on how to perform the exercise, and notes/modifications for the exercise.
 Installation directions:
 1. Download all the files and put it in a folder.
 2. Download React Native. Download Expo Go if you want to use the app on mobile.
